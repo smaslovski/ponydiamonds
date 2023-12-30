@@ -23,4 +23,6 @@ $(PRG).bin: $(PRG).obj
 %.obj: %.asm
 	macro11 -o $@ -l $*.lst -rt11 -yus -ysl 64 $<
 
+.INTERMEDIATE: $(PRG).obj
+
 .PHONY: all clean
