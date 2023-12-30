@@ -1,5 +1,7 @@
-	.LINK 1000
-
+	.TITLE PONYDIAMONDS
+	.SBTTL NACRO-11 PORT BY STANISLAV MASLOVSKI
+	.ASECT
+	.=1000
         EMT     14
 	MOV    #233,R0  ; режим 32 символа
 	EMT    16
@@ -498,5 +500,3 @@ ARR_SCORES:  .WORD 12,24,36, 24,50,74, 24,50,74, 50,120,170, -1
 .include "strings.inc"
 .EVEN
 .END
-
-make_bk0010_rom "ponydiamonds.bin", 1000
