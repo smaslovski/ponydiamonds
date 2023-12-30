@@ -1,3 +1,7 @@
+This is a fork of https://github.com/tereshenkovav/BK-0010-game with a *nix-style build system based on GNU make. A macro11 clone by Rhialto https://gitlab.com/Rhialto/macro11 and the linker script obj2bin by Don North (with my modifications for the BK0010/11M binary output formats) must be available.
+
+-----------------------------------------------
+
 Игра для БК-0010-01 на базе ассемблера PDP-11.\
 BK-0010-01 video game on PDP-11 assembler.
 
