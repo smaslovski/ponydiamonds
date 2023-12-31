@@ -1,4 +1,4 @@
-This is a fork of https://github.com/tereshenkovav/BK-0010-game with a *nix-style build system based on GNU make. A macro11 clone by Rhialto https://gitlab.com/Rhialto/macro11 and the linker script [obj2bin](https://github.com/smaslovski/ponydiamonds/blob/macro11/tools/obj2bin) by Don North (with my modifications for the BK0010/11M binary output formats) must be available.
+This is a fork of https://github.com/tereshenkovav/BK-0010-game with a *nix-style build system based on GNU make. A macro11 clone by Rhialto https://gitlab.com/Rhialto/macro11 and a linker script [obj2bin](https://github.com/smaslovski/ponydiamonds/blob/macro11/tools/obj2bin) by Don North (with my modifications for the BK0010/11M binary output formats) must be available.
 
 -----------------------------------------------
 
