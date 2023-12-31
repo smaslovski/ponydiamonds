@@ -25,4 +25,6 @@ $(PRG).bin: $(PRG).obj
 
 .INTERMEDIATE: $(PRG).obj
 
+.NOTPARALLEL: all
+
 .PHONY: all clean
